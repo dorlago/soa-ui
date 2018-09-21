@@ -1,0 +1,2 @@
+# soa-ui
+soa-uiautomation
