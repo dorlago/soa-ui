@@ -1,70 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c56ca44-6b76-4786-9222-081d0ddc19b8" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/soa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/screenshot_20180921/screen_shot_171856.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/screenshot_20180921/screen_shot_172001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/screenshot_20180921/screen_shot_174300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/screenshot_20180921/screen_shot_174631.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/obs_base_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/obs_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/obs_pages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/pc_base_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/pc_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/page/pc_pages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testcase/debug_test_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/soa_support.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/abao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/abao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6c56ca44-6b76-4786-9222-081d0ddc19b8" name="默认的" comment="默认的">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/test.log.2018-07-25" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/test.log.2018-01-27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/test.log.2018-02-12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/test.log.2018-02-27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/test.log.2018-03-04" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180210190617report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180210191338report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180210191617report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180303183823report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180304180939report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/20180308175436report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/base_case.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/base_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/home_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/locators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/suite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suite/run_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/suite/run_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/MarketingModuleCase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/MarketingModuleCase/test_1_init_promotion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/MarketingModuleCase/test_2_create_promotion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/MarketingModuleCase/test_advertise_notice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/test_1_creat_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/test_2_modify_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/test_3_audit_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/test_audit_return_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/OrderModuleCase/test_batch_audit_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/ProductModuleCase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/ProductModuleCase/test_create_product.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/ProductModuleCase/test_pro_list_and_detail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/testcase/Logistics/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testcase/debug_test_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/testcase/Members/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/HTMLTestRunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/email.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,7 +81,7 @@
       <file leaf-file-name="HTMLTestRunner.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/utils/HTMLTestRunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="188">
               <caret line="545" column="6" selection-start-line="545" selection-start-column="6" selection-end-line="545" selection-end-column="6" />
             </state>
           </provider>
@@ -605,6 +543,14 @@
       <option name="presentableId" value="Default" />
       <updated>1515934253994</updated>
     </task>
+    <task id="LOCAL-00001" summary="默认的">
+      <created>1539664870242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664870242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -652,10 +598,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978678" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.41285402" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49946696" weight="0.10130719" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
@@ -683,6 +629,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认的" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -853,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/HTMLTestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="188">
           <caret line="545" column="6" selection-start-line="545" selection-start-column="6" selection-end-line="545" selection-end-column="6" />
         </state>
       </provider>
