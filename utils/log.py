@@ -38,5 +38,7 @@ class Logger(object):
             file_handler.setLevel(self.file_output_level)
             self.logger.addHandler(file_handler)
         return self.logger
+
+
 logger = Logger().get_logger()
 

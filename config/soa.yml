@@ -1,0 +1,46 @@
+log:
+    file_name: test.log
+    backup: 5
+    console_level: INFO
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+mail:
+    server: smtp.qq.com
+    port: 465
+    sender: 1038103831@qq.com
+    password: vpcrprvviobqbcbh
+    receiver: 561211505@qq.com       # 以;号隔开多个收件人
+    title: 测试结果
+ObsLoginUrl: 'http://www.obs-gb.com/'
+PcHomeUrl: 'https://www.gearbest.net/'
+goodsUrl:
+ObsAccount:
+    userName: zhangwei
+    password: zhang1wei
+
+PcAccount1:
+    email: wallen1@gmail.com
+    password: war111111
+
+PcAccount2:
+    email: sarball1@gmail.com
+    password: sar111111
+
+
+
+
+
+payMapping:  # 支付方式对应国家收货地址
+    - payPal: united states
+    - credit: a
+    - BKM: b
+
+
+payMethods:  # 各种表单信息
+    payPal:
+        - cardnuber:
+        - scode:
+
+
+walletPWD: 123456
+
