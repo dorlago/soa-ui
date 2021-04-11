@@ -7,9 +7,9 @@ log:
 mail:
     server: smtp.qq.com
     port: 465
-    sender: 1038103831@qq.com
-    password: vpcrprvviobqbcbh
-    receiver: 561211505@qq.com       # 以;号隔开多个收件人
+    sender: xxxx@qq.com
+    password: vpcrpxxx
+    receiver: xxxx5@qq.com       # 以;号隔开多个收件人
     title: 测试结果
 ObsLoginUrl: 'http://www.obs-gb.com/'
 PcHomeUrl: 'https://www.gearbest.net/'
